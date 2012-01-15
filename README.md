@@ -6,7 +6,7 @@ This project is based on the lift-archetype-basic maven archetype using
 * lift 2.4-M5
 
 Run the project by starting sbt in the web/ directory and entering:
-	~container:start 
+   ~container:start 
 
 The application can be viewed at <a href="http://localhost:8080">http://localhost:8080</a>
 
