@@ -1,0 +1,11 @@
+target/
+web/*.db
+web/target/
+web/project/build/
+web/project/project/
+web/project/target/
+*.swp
+.classpath
+.history
+.project
+.settings/
